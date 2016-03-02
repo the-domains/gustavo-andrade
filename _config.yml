@@ -1,0 +1,28 @@
+name: Gustavo Andrade
+favicon: null
+layout_spectrum: 0.06769704981707036
+typography_spectrum: 0.011451110010966659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13676554546691477
+  lightness: 0.10138450120575726
+  saturation: 0.5438154698349535
+  rhythmicContrast: 0.03154495311900973
+purpose: []
